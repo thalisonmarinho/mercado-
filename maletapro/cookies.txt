@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_BRAM_f_f_uwhp21CKRMWbbnEVhy3PWQ
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Fparafusadeira-10-em-1-com-2-baterias-lixadeira-profissional
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZjAOeRFAAEATPWpXBuC_oxu3ULPq84rIG_qYIbRwxbsHQVSjonHaMMINN8AQMEEmy2lMOMuwxBuW-WBdRvHsfJqrLWHC8T_mQ:
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	Priority	High
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	localization	BR
+http2.mlstatic.com	TRUE	/	FALSE	1999999999	_d2id	7ce9f890-3c87-433a-8633-3fddd059c6d0-n
+fury-os-analyticspylo-gajs-us-east-1-default-7ca27b0.s3.us-east-1.amazonaws.com	TRUE	/	FALSE	1999999999	SameSite	None
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	67f8eaf8-f6b3-48a8-88a3-3fb4cd1ad0ad
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	3b0568aa-f690-4443-bee4-87ee086d396f
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	03223497-fadf-455e-be87-9ac10f10de25
+rif1bc-pe.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
